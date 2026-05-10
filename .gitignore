@@ -1,0 +1,11 @@
+# Base de datos y evidencias
+vision_guard.db
+capturas_evidencia/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales (por si acaso)
+env/
+venv/
